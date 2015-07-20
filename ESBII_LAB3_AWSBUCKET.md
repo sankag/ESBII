@@ -15,7 +15,7 @@ console.aws.amazon.com/s3.
 
 ![alt text](http://i62.tinypic.com/2mqj9dl.jpg)
 
-### To upload an object
+#### To upload an object
 
 4.Click the name of bucket that you want to upload an object to and then
 click Upload.
@@ -34,7 +34,7 @@ click Upload.
 
 ![alt text](http://i58.tinypic.com/wi5aph.jpg)
 
-### View an Object
+#### View an Object
 
 7.in the Objects and Folders list, right-click the object or objects that you
 want to open or download, then click Open or Download as appropriate.
@@ -46,7 +46,7 @@ object depends on the browser and operating system that you are using.
 
 ![alt text](http://i61.tinypic.com/nzr6mt.jpg)
 
-### Move/Copy an Object
+#### Move/Copy an Object
 
 9.right-click the object that you want to move, and then click Move/Copy
 
@@ -55,7 +55,7 @@ and then click Paste Into.
 
 ![alt text](http://i62.tinypic.com/2rze2iw.jpg)
 
-### Delete an Object and Bucket
+#### Delete an Object and Bucket
 
 11.In the Objects and Folders panel, right-click the object/bucket that you want to delete(sankabucket2), and then click Delete.
 
@@ -71,7 +71,7 @@ When Bucket is not empty , you can not delete that directly. we need to go insid
 
 ![alt text](http://i57.tinypic.com/2yug7yp.jpg)
 
-### To delete a bucket
+#### To delete a bucket
 
 13.Right-click the bucket that you want to delete, and then click Delete Bucket.
 
