@@ -4,7 +4,10 @@
 
 1.Sign into the AWS Management Console and open the Amazon S3 console at https://
 console.aws.amazon.com/s3.
+
 ![alt text](http://i59.tinypic.com/15ybuat.jpg)
+
+2.Select a bucket name and the region
 
 ![alt text](http://i61.tinypic.com/219z81c.jpg)
 
