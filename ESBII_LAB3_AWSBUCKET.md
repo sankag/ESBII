@@ -74,6 +74,7 @@ When Bucket is not empty , you can not delete that directly. we need to go insid
 ### To delete a bucket
 
 13.Right-click the bucket that you want to delete, and then click Delete Bucket.
+
 ![alt text](http://i61.tinypic.com/14m9hyv.jpg)
 
 
