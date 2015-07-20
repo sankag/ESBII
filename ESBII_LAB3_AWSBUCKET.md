@@ -11,14 +11,18 @@ console.aws.amazon.com/s3.
 
 ![alt text](http://i61.tinypic.com/219z81c.jpg)
 
-3. Bucket is Created now
+3.Bucket is Created now
 
 ![alt text](http://i62.tinypic.com/2mqj9dl.jpg)
 
 ### To upload an object
 
+4.Click the name of bucket that you want to upload an object to and then
+click Upload.
+
 ![alt text](http://i59.tinypic.com/23kew0k.jpg)
 
+5.Select Files And Folders 
 ![alt text](http://i57.tinypic.com/2sbtjk7.jpg)
 
 ![alt text](http://i58.tinypic.com/fjqgdk.jpg)
