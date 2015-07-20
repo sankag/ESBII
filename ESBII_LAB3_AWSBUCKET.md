@@ -30,7 +30,7 @@ click Upload.
 
 ![alt text](http://i58.tinypic.com/2n0r8yc.jpg)
 
-6. File is Now Uploded in to our bucket
+6.File is Now Uploded in to our bucket
 
 ![alt text](http://i58.tinypic.com/wi5aph.jpg)
 
@@ -55,7 +55,13 @@ and then click Paste Into.
 
 ![alt text](http://i62.tinypic.com/2rze2iw.jpg)
 
+### Delete an Object and Bucket
+
+11.In the Objects and Folders panel, right-click the object/bucket that you want to delete(sankabucket2), and then click Delete.
+
 ![alt text](http://i62.tinypic.com/15cbs3s.jpg)
+
+When Bucket is not empty , you can not delete that directly. we need to go inside that bucket and delete objects first.
 
 ![alt text](http://i60.tinypic.com/mws5yb.jpg)
 
