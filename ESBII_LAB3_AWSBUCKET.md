@@ -11,7 +11,11 @@ console.aws.amazon.com/s3.
 
 ![alt text](http://i61.tinypic.com/219z81c.jpg)
 
+3. Bucket is Created now
+
 ![alt text](http://i62.tinypic.com/2mqj9dl.jpg)
+
+### To upload an object
 
 ![alt text](http://i59.tinypic.com/23kew0k.jpg)
 
