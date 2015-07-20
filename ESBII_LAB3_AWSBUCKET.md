@@ -65,10 +65,15 @@ When Bucket is not empty , you can not delete that directly. we need to go insid
 
 ![alt text](http://i60.tinypic.com/mws5yb.jpg)
 
+12.now we can delete the object which inside the sankabucket2 
+
 ![alt text](http://i62.tinypic.com/25yyhhx.jpg)
 
 ![alt text](http://i57.tinypic.com/2yug7yp.jpg)
 
+### To delete a bucket
+
+13.Right-click the bucket that you want to delete, and then click Delete Bucket.
 ![alt text](http://i61.tinypic.com/14m9hyv.jpg)
 
 
