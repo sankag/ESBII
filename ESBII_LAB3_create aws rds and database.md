@@ -16,7 +16,7 @@
 5  Select RDS FREE usage tier
 ![alt text](http://i62.tinypic.com/nmcemu.jpg)
 
-6 Specfy DB Details
+6 Specifying DB Details
 ![alt text](http://i61.tinypic.com/29zvho3.jpg)
 
 7
@@ -46,5 +46,5 @@
 15 Connecting to a DB Instance Running the MySQL Database Engine
 ![alt text](http://i61.tinypic.com/2z4da88.jpg)
 
-16
+16 Showing Available Databases in AWS 
 ![alt text](http://i58.tinypic.com/5egxtl.jpg)
